@@ -61,6 +61,7 @@
     <Folder Include="dbo\Tables\" />
     <Folder Include="Security\" />
     <Folder Include="dbo\Stored Procedures\" />
+    <Folder Include="dbo\Scripts" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\word.sql" />
@@ -73,5 +74,6 @@
     <Build Include="Security\RoleMemberships.sql" />
     <Build Include="dbo\Stored Procedures\words_counter.sql" />
     <Build Include="dbo\Stored Procedures\process_data.sql" />
+    <Build Include="dbo\Scripts\insert data to board last update.sql" />
   </ItemGroup>
 </Project>

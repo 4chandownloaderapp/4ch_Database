@@ -1,0 +1,29 @@
+﻿/*boards to archive*/
+INSERT INTO [4ch].[dbo].[board_last_update](
+[board_link]
+,[board_short]
+)
+VALUES
+('https://boards.4chan.org/bant/','bant')
+,('http://boards.4chan.org/b/','b')
+,('https://boards.4channel.org/diy/','diy')
+,('https://boards.4chan.org/pol/','pol')
+,('https://boards.4channel.org/p/','p')
+,('https://boards.4channel.org/g/','g')
+,('https://boards.4chan.org/s4s/','s4s')
+,('https://boards.4channel.org/biz/','biz')
+,('https://boards.4channel.org/out/','out')
+,('https://boards.4channel.org/vip/','vip')
+,('https://boards.4chan.org/gif/','gif')
+,('https://boards.4chan.org/soc/','soc')
+,('https://boards.4chan.org/hr/','hr')
+,('https://boards.4chan.org/r/','r')
+,('https://boards.4chan.org/t/','t')
+,('https://boards.4channel.org/n/','n')
+,('https://boards.4chan.org/hc/','hc')
+,('https://boards.4channel.org/int/','int')
+,('https://boards.4channel.org/qa/','qa')
+,('https://boards.4chan.org/s/','s')
+,('https://boards.4channel.org/news/','news')
+,('https://boards.4channel.org/adv/','adv')
+,('https://boards.4chan.org/r9k/','r9k')
